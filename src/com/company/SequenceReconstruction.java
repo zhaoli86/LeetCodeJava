@@ -28,7 +28,7 @@ public class SequenceReconstruction {
                 }
             }
         }
-`
+
         for(int i = 0; i < orgLen - 1; i++){
             if(!pairs[i]){
                 return false;
